@@ -1,1 +1,1 @@
-Drug recommendation model: under analytics Vidhya hackathon build model for automation of drug prescription based on disease symptoms.
+Loan prediction model: Build classifier for automatio of loan eligibility process and got the accuracy of around 80% with the help of XGBOOST
